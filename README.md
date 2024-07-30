@@ -13,4 +13,11 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.7 or later
 - Jupyter Notebook
 - Visual Studio Code
-- Necessary Python libraries (listed in requirements.txt)
+- Necessary Python libraries (listed in requirements)
+
+### requirements
+- os - For interacting with the operating system.
+- shutil - For file operations.
+- glob - For pattern matching in filenames.
+- zipfile - For working with ZIP archives.
+- huggingface_hub - For interacting with Hugging Face repositories.
