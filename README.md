@@ -1,4 +1,4 @@
-# Voice Synthesis with RVC Model
+## Voice Synthesis with RVC Model
 
 ### Introduction
 This project demonstrates the implementation of a voice synthesis model using the RVC (Retrieval-Based Voice Conversion) architecture. The model is trained to generate speech that sounds like the user's voice. This repository contains all the necessary files and instructions to replicate the results on your local machine.
